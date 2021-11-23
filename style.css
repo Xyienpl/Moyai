@@ -1,0 +1,15 @@
+.section-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+
+}
+.section-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+  
+}
+.section-1 p {
+    margin: 0;
+}
